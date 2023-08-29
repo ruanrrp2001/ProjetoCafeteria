@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1e90ff" /> <!-- Cor de fundo do botão -->
+    <size
+        android:width="50dp"
+        android:height="50dp" />
+    <corners android:radius="25dp" /> <!-- Metade da largura ou altura para criar um círculo perfeito -->
+</shape>

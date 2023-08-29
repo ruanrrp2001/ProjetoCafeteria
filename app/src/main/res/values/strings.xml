@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetoCafeteria</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Cadastre-se</string>
+    <string name="texte_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="title_activity_forma_de_pagamento">FormaDePagamento</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
